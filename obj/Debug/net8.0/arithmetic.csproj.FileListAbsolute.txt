@@ -1,0 +1,14 @@
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\bin\Debug\net8.0\arithmetic.exe
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\bin\Debug\net8.0\arithmetic.deps.json
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\bin\Debug\net8.0\arithmetic.runtimeconfig.json
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\bin\Debug\net8.0\arithmetic.dll
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\bin\Debug\net8.0\arithmetic.pdb
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.AssemblyInfoInputs.cache
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.AssemblyInfo.cs
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.dll
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\refint\arithmetic.dll
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.pdb
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\arithmetic.genruntimeconfig.cache
+C:\Users\BFI\Desktop\onboarding\test\arithmetic\obj\Debug\net8.0\ref\arithmetic.dll
